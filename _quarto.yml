@@ -1,0 +1,76 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Tutorial de Django Girls"
+  author: "Lcdo. Diego Medardo Saavedra García, Mgtr."
+  output-file: "nombre_del_repositorio"  
+  date: today
+  date-format: medium
+  favicon: images/favicon.ico
+  description: "Guía de Django Girls para crear tu primer sitio web con Django"
+  keyword: Django, Python, Web, Tutorial
+  url: https://github.com/userGithub/nombre_del_repositorio.git
+  page-navigation: true
+  sidebar: 
+    logo: logo.png
+    search: true
+    collapse-level: 1
+
+  repo-subdir: book
+  sharing: [twitter, linkedin]
+  downloads: [pdf, epub]
+  image: logo.png
+
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+        
+  chapters:
+    - index.qmd
+    - part: "Introducción"
+      chapters: 
+        - unidades/unidad1/intro.qmd
+    - part: "Instalación"
+      chapters:
+        - unidades/unidad1/instalacion.qmd
+
+bibliography: references.bib
+biblio-style: "apalike"
+
+format:
+  html:
+    number-sections: false
+    theme: 
+      dark:  solar #slate, darkly, solar, superhero, vapor
+      # light: cosmo
+    number-depth: 4
+    link-external-icon: true
+    link-external-newwindow: true
+    css: css/styles.css
+
+  pdf:
+    documentclass: scrreprt
+    classoption: ["onepage", "openany"]
+    papersize: a4
+    toc: true
+    margin-top: 35mm
+    margin-left: 30mm
+    margin-bottom: 30mm
+    margin-right: 30mm
+    titlepage-geometry: 
+      - top=35mm
+      - bottom=30mm
+      - right=30mm
+      - left=30mm
+  epub: 
+    belongs-to-collection: "Nombre del Curso"
+    group-position: 0
+    creator: "Diego Saavedra"
+    rights: "© Statick | 2024"
+    fig-responsive: true
+    number-sections: true
