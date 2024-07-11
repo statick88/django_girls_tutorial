@@ -1,0 +1,124 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutorial de Django Girls",
+    "section": "",
+    "text": "Bienvenido\n\n\n\nBienvenida al libro\n\nDescripción del Curso general ## ¿De qué trata este curso?\nEn esta sección describimos de que va a tratar el curso ## ¿Para quién es este curso?\nEn esta sección mencionamos el público objetivo ## ¿Cómo contribuir?\nEn esta sección describimos como se puede contribuir al libro",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenido</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/intro.html",
+    "href": "unidades/unidad1/intro.html",
+    "title": "Tutorial de Django Girls",
+    "section": "",
+    "text": "Tip\n\n\n\nEste trabajo está bajo la licencia internacional Creative Commons Attribution-ShareAlike 4.0. Para ver una copia de esta licencia, visita el siguiente enlace https://creativecommons.org/licenses/by-sa/4.0/\n\n\n\nBienvenida/o\n¡Bienvenido/a al tutorial de las Django Girls! ¡Nos alegra que estés aquí :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que la web funcione.\nComo pasa con todas las cosas nuevas, va a ser una aventura - pero no te preocupes; una vez que te has decidido a empezar, te irá de maravilla :)\n\n\nIntroducción\n¿Alguna vez has tenido la sensación de que el mundo es cada vez más tecnológico? ¿que cada vez lo entiendes menos? ¿Alguna vez te has planteado crear un sitio web pero no sabías por dónde empezar? ¿Has pensado alguna vez que el mundo del software es demasiado complicado como para intentar hacer algo por tu cuenta?\nBueno, ¡tenemos buenas noticias! Programar no es tan difícil como parece y queremos demostrarte lo divertido que puede llegar a ser.\nEste tutorial no te convertirá en programadora de la noche a la mañana. Si quieres ser buena en esto, necesitarás meses o incluso años de aprendizaje y práctica. Sin embargo queremos enseñarte que programar o crear sitios web no es tan complicado como parece. Intentaremos explicar las cosas lo mejor que podamos, para perderle el miedo a la tecnología.\n¡Esperamos conseguir que te guste la tecnología tanto como a nosotras!\n\n\n¿Qué aprenderás con este tutorial?\nCuando termines el tutorial, tendrás una aplicación web sencilla y funcional: tu propio blog. Te mostraremos como ponerla en línea, ¡para que otros puedan ver tu trabajo!\nTendrá (más o menos) esta pinta:\n\n\n\nBien, empecemos por el comienzo…\n\n\nSeguir el tutorial desde casa\nParticipar en un taller de Django Girls en vivo es genial, pero somos conscientes de que no siempre es posible hacerlo. Por eso, te recomendamos hacer este tutorial en casa. Para las que estáis en casa, estamos preparando vídeos que facilitarán seguir el tutorial por tu cuenta. Todavía está en progreso, pero cada vez hay más cosas explicadas en el canal de YouTube Coding is for girls (Nota: en inglés).\nEn cada capítulo hay un enlace que lleva al vídeo correspondiente (si lo hay).\n\n\nSobre nosotros y Cómo contribuir\nEste tutorial lo mantiene DjangoGirls. Si encuentras algún error o quieres actualizar el tutorial, por favor sigue la guía de cómo contribuir.\n\n\n¿Te gustaría ayudarnos a traducir el tutorial a otros idiomas?\nActualmente, las traducciones se hacen en la plataforma crowdin.com, en el siguiente enlace:\nhttps://crowdin.com/project/django-girls-tutorial\nSi tu idioma no aparece en la lista de crowdin, por favor abre un nuevo issue con el idioma para que podamos añadirlo.",
+    "crumbs": [
+      "Introducción",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tutorial de Django Girls</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#ide-en-la-nube-paizacloud-cloud-ide-aws-cloud9",
+    "href": "unidades/unidad1/instalacion.html#ide-en-la-nube-paizacloud-cloud-ide-aws-cloud9",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "IDE en la nube (PaizaCloud Cloud IDE, AWS Cloud9)",
+    "text": "IDE en la nube (PaizaCloud Cloud IDE, AWS Cloud9)\nNube de IDE es una herramienta que te ofrece un editor de código y el acceso por medio de internet a una computadora donde puedes instalar, escribir y ejecutar el software. Durante este tutorial, el IDE en la nube te servirá como tu máquina local. Seguirás ejecutando comandos en una terminal igual que tus compañeros de clase en OS X, Ubuntu, o Windows, pero tu terminal en realidad estará conectada a una computadora trabajando en algún otro lugar, que el IDE en la nube configura para ti. Aquí están las instrucciones para IDEs en la nube (PaizaCloud Cloud IDE, AWS Cloud9). Puedes elegir uno de los IDEs en la nube, y seguir sus instrucciones.",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#paizacloud-cloud-ide",
+    "href": "unidades/unidad1/instalacion.html#paizacloud-cloud-ide",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "PaizaCloud Cloud IDE",
+    "text": "PaizaCloud Cloud IDE\n\nVe a PaizaCloud Cloud IDE\nCrea una cuenta\nHaz clic en Nuevo Servidor y elige la aplicación Django\nHaz clic en el botón Terminal (en el lado izquierdo de la ventana)\n\nAhora deberías ver una interfaz con una barra y botones en la izquierda. Haz click en al botón “Terminal” para abrir la ventana de la terminal con un símbolo de sistema como este:\nTerminal\n$\nLa terminal en el IDE en la nube PaizaCloud está preparada para ejecutar tus instrucciones. Puedes redimensionar o maximizar la ventana para hacerla un poco más grande.",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#aws-cloud9",
+    "href": "unidades/unidad1/instalacion.html#aws-cloud9",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "AWS Cloud9",
+    "text": "AWS Cloud9\nActualmente Cloud 9 requiere que te registres con AWS y ingreses la información de la tarjeta de crédito.\n\nInstala Cloud 9 desde la Chrome web store\nVe a c9.io y haz clic en Get started with AWS Cloud9\nRegístrate en una cuenta AWS (requiere información de tarjeta de crédito, pero puedes usar gratis)\nEn el panel de control AWS, introduz Cloud9 en la barra de búsqueda y haz clic en él\nEn el panel de control de la Cloud 9, haz clic en Create environment\nNómbralo django-girls\nMientras configuras los ajustes, selecciona Create a new instance for environment (EC2) para “Environment Type” y selecciona el valor t2.micro para “Instance type” (debería decir “Free-tier eligible.”). La configuración de ahorro de costes por defecto está bien y puede mantener los otros valores por defecto.\nHaz clic en Next step\nHaz clic en Create environment\n\nAhora deberías ver una interfaz con una barra, una gran ventana principal con algún texto y una ventana pequeña en la parte inferior que se vería así:\nyourusername:~/workspace $\nEl área de abajo es tu terminal. Puedes usar el terminal para enviar instrucciones al ordenador remoto en Cloud 9. Puedes redimensionar o maximizar la ventana para hacerla un poco más grande.",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#entorno-virtual",
+    "href": "unidades/unidad1/instalacion.html#entorno-virtual",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "Entorno Virtual",
+    "text": "Entorno Virtual\nUn entorno virtual (también llamado “virtualenv” o “vitual environment” en inglés) es un tipo de caja privada donde podemos introducir código para el proyecto en el cual estemos trabajando. Lo usamos para mantener separados los diferentes trozos de código de nuestros proyectos, de modo que no haya mezclas indeseadas entre los mismos.\nEjecutar:\nCloud 9 mkdir djangogirls cd djangogirls python3.6 -mvenv myvenv source myvenv/bin/activate pip install django~=3.2.10\n(nota que en la última línea usamos una virgulilla (~) seguida de un signo igual ~=).",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#github",
+    "href": "unidades/unidad1/instalacion.html#github",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "GitHub",
+    "text": "GitHub\nHazte una cuenta de GitHub.",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/unidad1/instalacion.html#pythonanywhere",
+    "href": "unidades/unidad1/instalacion.html#pythonanywhere",
+    "title": "Si estás haciendo el tutorial en casa",
+    "section": "PythonAnywhere",
+    "text": "PythonAnywhere\nEl tutorial de Django Girls incluye una sección en lo que se conoce como Despliegue, lo cual se refiere al proceso de tomar el código que da vida a tu nueva aplicación web y moverlo a un ordenador de acceso público (llamado servidor) para que otras personas puedan ver tu trabajo.\nEsta parte del tutorial es algo extraña usando un Chromebook, pues ya estamos usando un computador conectado a Internet (contrario a, por ejemplo, un portátil). Sin embargo, aún es útil, ya que podemos pensar que nuestro espacio de trabajo en Cloud 9 como un repositorio para nuestro trabajo “en progreso” y Python Anywhere como un lugar donde mostrar nuestro trabajo más completo.\nAsí que, registra una cuenta en Python Anywhere &lt;www.pythonanywhere.com&gt;.",
+    "crumbs": [
+      "Instalación",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Si estás haciendo el tutorial en casa</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de mi",
+    "section": "",
+    "text": "¡Hola! Soy Diego Saavedra, un experto en desarrollo avanzado de software e investigación. Mi amplia experiencia abarca diversas tecnologías, incluyendo Python (Django, Flask, Fast API) y JavaScript (Express, Next, React, Nestjs), así como también tengo conocimientos sólidos en bases de datos, arquitecturas de software y liderazgo ágil.\nMi pasión por la innovación, el desarrollo y la educación me ha llevado a destacarme como un profesional versátil e invaluable. Estoy constantemente listo para enfrentar desafíos técnicos y liderar proyectos de vanguardia.\nMi formación académica incluye el ser estudiante de Doctorado centrado en la inteligencia artificial, estoy enfocando mi investigación en la detección de TDA+H y Asperger mediante Visión Artificial a traves de algoritmos de Inteligencia Artificial. Además, poseo una Maestría en Ciencias de la Computación, con un enfoque en el Deep Learning (Convolutional Neural Network) y la Atención.\nCon esta sólida base académica y experiencia profesional, estoy preparado para aportar soluciones innovadoras y liderar equipos hacia el éxito en cualquier proyecto tecnológico que se me presente.\nAdemás, tengo experiencia en el desarrollo móvil utilizando Flutter y en la implementación de soluciones backend utilizando servicios Backend as a Service (BaaS) como Firebase y Supabase.\nEn el ámbito de la educación, he sido docente de programación en institutos y universidades, actualmente soy parte del Departamento de Ciencias de la Computación en la Universidad de las Fuerzas Armadas ESPE, donde he impartido asignaturas de desarrollo de Software Web con tecnologías como JavaScript, Java y C# asi como sus respectivos frameworks.\nMi experiencia en el desarrollo de software y la investigación me ha permitido adquirir habilidades de liderazgo, trabajo en equipo y comunicación efectiva. Estoy seguro de que mi experiencia y habilidades serán de gran valor para cualquier proyecto tecnológico que se me presente.\nEn este curso aprenderás a desarrollar aplicaciones web con Python y Django, una de las tecnologías más populares y poderosas para el desarrollo de aplicaciones web. A lo largo del curso, aprenderás a crear aplicaciones web desde cero, utilizando Django y Python, y a implementar funcionalidades avanzadas como integración con APIs externas y mucho más.\nTambien veremos tecnologías como Git, Github, Docker, Python, Django, Django Rest Framework, Html5, Css3, JavaScript, Nodejs, Npm y React.\n\n\n¡Estoy emocionado de compartir contigo mi conocimiento y experiencia en el desarrollo de aplicaciones web con Python y Django!"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licencia",
+    "section": "",
+    "text": "Uso Permitido\nPuedes utilizar el contenido de este curso con fines educativos y personales. Puedes modificar los ejemplos y el código proporcionado para tus propias necesidades de aprendizaje."
+  },
+  {
+    "objectID": "license.html#restricciones",
+    "href": "license.html#restricciones",
+    "title": "Licencia",
+    "section": "Restricciones",
+    "text": "Restricciones\nNo tienes permitido redistribuir, vender o utilizar el contenido de este curso para fines comerciales sin el permiso explícito de [Nombre de la Compañía]. Además, no tienes permitido copiar o duplicar el contenido del curso y presentarlo como propio."
+  },
+  {
+    "objectID": "license.html#atribución",
+    "href": "license.html#atribución",
+    "title": "Licencia",
+    "section": "Atribución",
+    "text": "Atribución\nSi compartes los ejemplos, los fragmentos de código o el contenido de este curso en línea, te pedimos que proporciones la atribución adecuada a [Nombre de la Compañía]."
+  },
+  {
+    "objectID": "license.html#cambios-en-la-licencia",
+    "href": "license.html#cambios-en-la-licencia",
+    "title": "Licencia",
+    "section": "Cambios en la Licencia",
+    "text": "Cambios en la Licencia\n[Nombre de la Compañía] se reserva el derecho de modificar los términos de esta licencia en cualquier momento. Cualquier cambio se reflejará en esta página.\nGracias por respetar nuestros derechos de autor y por tu comprensión."
+  }
+]
