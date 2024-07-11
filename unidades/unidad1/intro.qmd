@@ -31,13 +31,6 @@ Tendrá (más o menos) esta pinta:
 ![](images/paste-2.png)
 :::
 
-::: callout-tip
-Si estás siguiendo este tutorial por tu cuenta y no tienes un mentor que
-te ayude en caso de dificultades, tenemos un chat para ti: [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg){alt="Gitter"}](https://gitter.im/DjangoGirls/tutorial).
-¡Hemos pedido a mentores y asistentes de ediciones anteriores, que
-pasen por allí de vez en cuando para echar una mano a otras con el
-tutorial! ¡No tengas miedo de preguntar ahí!
-:::
 
 Bien, empecemos por el comienzo...
 
